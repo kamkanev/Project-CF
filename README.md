@@ -1,3 +1,3 @@
 # Project-CF 
 Game for fighting with cards on chess board.
-[![Node.js CI Actions Status](https://github.com/kamkanev/Project-CF/workflows/badge.svg)](https://github.com/kamkanev/Project-CF/actions)
+![nodeJs](https://github.com/kamkanev/Project-CF/workflows/nodeJs/badge.svg?branch=master)
